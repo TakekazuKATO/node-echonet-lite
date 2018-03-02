@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "description": "The node-echonet-lite is a Node.js module which allows you to communicate with home appliances supporting the ECHONET Lite protocol.",
   "main": "./lib/node-echonet-lite.js",
+  "types": "./lib/index.d.ts",
   "files": [
     "lib"
   ],
